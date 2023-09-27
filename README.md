@@ -1,0 +1,2 @@
+# Video-Compressor-Service
+RecursionCSのBackendProject2_Video-Compressor-Serviceのリポジトリーになります。
