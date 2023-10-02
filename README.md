@@ -65,12 +65,12 @@ outputフォルダにダウンロードされた動画を確認する
 ## output(すべてのサービスを実行後のフォルダ)
 ![image](https://github.com/Aki158/Video-Compressor-Service/assets/119317071/8a479707-2d84-4410-b7b1-5e49c66dd30c)
 
-## サービス実施前後(例として サービス:動画ファイルを圧縮する_圧縮度_low をのせる)
+## サービス実施前後(例として サービス:動画ファイルを圧縮する_圧縮度_high をのせる)
 ### 実施前
 ![image](https://github.com/Aki158/Video-Compressor-Service/assets/119317071/ba663ead-75f0-4a92-b8aa-e4c469bc2680)
 
 ### 実施後
-![image](https://github.com/Aki158/Video-Compressor-Service/assets/119317071/055507ac-fcac-4b7a-aac5-88b8c62fceec)
+![image](https://github.com/Aki158/Video-Compressor-Service/assets/119317071/f75fcefe-cb3c-4bc8-a223-a2cadd9c5ef7)
 
 ## 使用方法
 ### client
