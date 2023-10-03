@@ -74,7 +74,7 @@ outputフォルダにダウンロードされた動画を確認する
 
 ## 使用方法
 ### client
->python client.py
+>python3 client.py
 
 ### server
 >python3 server.py
