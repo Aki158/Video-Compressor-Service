@@ -189,7 +189,13 @@ python3 client.py
   <td>VirtualBox</td>
 </tr>
 <tr>
-  <td>その他</td>
+  <td rowspan=3>その他</td>
+  <td>Git</td>
+</tr>
+<tr>
+  <td>Github</td>
+</tr>
+<tr>
   <td>FFmpeg</td>
 </tr>
 </table>
